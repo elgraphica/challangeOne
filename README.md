@@ -17,3 +17,7 @@ WE have a side bar wirh some extra information
 ## Licence
 
 Please refer to the licence in repo
+
+## Deployment
+
+https://elgraphica.github.io/challangeOne/#social-media-marketing
